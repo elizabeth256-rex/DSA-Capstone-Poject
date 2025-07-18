@@ -1,2 +1,2 @@
 # DSA-Capstone-Poject
-This is where I upload my DSA Capstone Project for Data Analysis with the Incubator Hub.
+This is where my DSA Capstone Data Analysis Project with the Incubator Hub is stored - the beginning of my Data Analysis Journey.
